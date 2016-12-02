@@ -1,0 +1,1402 @@
+﻿#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Hrvatska═════"  group-title="Hrvatska",═════Hrvatska═════
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str29
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HRT 1"  group-title="Hrvatska",HRT 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str29
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HRT 2"  group-title="Hrvatska",HRT 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str17
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HRT 3"  group-title="Hrvatska",HRT 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str168
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HRT 4"  group-title="Hrvatska",HRT 4
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str169
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL"  group-title="Hrvatska",RTL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str10
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL 2"  group-title="Hrvatska",RTL 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str11
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Crime"  group-title="Hrvatska",RTL Crime
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str215
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Living"  group-title="Hrvatska",RTL Living
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str174
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nova"  group-title="Hrvatska",Nova
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str09
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Doma"  group-title="Hrvatska",Doma
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str12
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vinkovacka TV"  group-title="Hrvatska",Vinkovacka TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str170
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Slavonska TV"  group-title="Hrvatska",Slavonska TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str171
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Banovina TV"  group-title="Hrvatska",Banovina TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str172
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Osijecka TV"  group-title="Hrvatska",Osijecka TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str173
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CMC"  group-title="Hrvatska",CMC
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str175
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Bosna═════"  group-title="Bosna",═════Bosna═════
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str04
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BHT 1"  group-title="Bosna",BHT 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str04
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FTV"  group-title="Bosna",FTV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str13
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVSA"  group-title="Bosna",TVSA
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str158
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV Zenica"  group-title="Bosna",RTV Zenica
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str159
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV USK"  group-title="Bosna",TV USK
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str160
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bosna TV"  group-title="Bosna",Bosna TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str217
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Igman"  group-title="Bosna",TV Igman
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str161
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Izvorna TV"  group-title="Bosna",Izvorna TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str162
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 1"  group-title="Bosna",TV 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str25
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Jazeera"  group-title="Bosna",Al Jazeera
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str163
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A1 International"  group-title="Bosna",A1 International
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str164
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A1 Balkan"  group-title="Bosna",A1 Balkan
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str165
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="N1"  group-title="Bosna",N1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str166
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SOS"  group-title="Bosna",SOS
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str167
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATV"  group-title="Bosna",ATV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str41
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DM Sat"  group-title="Bosna",DM Sat
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str71
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BN Music"  group-title="Bosna",BN Music
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str72
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hayat Plus"  group-title="Bosna",Hayat Plus
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str156
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hayat"  group-title="Bosna",Hayat
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str36
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Face TV"  group-title="Bosna",Face TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str37
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OBN"  group-title="Bosna",OBN
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str57
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BN"  group-title="Bosna",BN
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str59
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Duga TV"  group-title="Bosna",Duga TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str179
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Valentinovo"  group-title="Bosna",Valentinovo
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str181
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hayat Folk"  group-title="Bosna",Hayat Folk
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str155
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jugoton TV"  group-title="Bosna",Jugoton TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str180
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hayat Music"  group-title="Bosna",Hayat Music
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str157
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TK"  group-title="Bosna",TK
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str38
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Srbija═════"  group-title="Srbija",═════Srbija═════
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str01
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTS 1"  group-title="Srbija",RTS 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str01
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTS 2"  group-title="Srbija",RTS 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str02
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTS 3"  group-title="Srbija",RTS 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str176
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Novi Pazar"  group-title="Srbija",Novi Pazar
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str177
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="B92 Info"  group-title="Srbija",B92 Info
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str178
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="B92"  group-title="Srbija",B92
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str03
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="Srbija",MTV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str182
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Atlas TV"  group-title="Srbija",Atlas TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str183
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Prva TV"  group-title="Srbija",Prva TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str05
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTRS"  group-title="Srbija",RTRS
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str58
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Klasik TV"  group-title="Srbija",Klasik TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str70
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 1"  group-title="Srbija",RTV 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str251
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 2"  group-title="Srbija",RTV 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str252
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Adria"  group-title="Srbija",MTV Adria
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str253
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Happy"  group-title="Srbija",Happy
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str73
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sandzak TV"  group-title="Srbija",Sandzak TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str185
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Grand TV"  group-title="Srbija",Grand TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str40
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nova RS"  group-title="Srbija",Nova RS
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str42
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVCG"  group-title="CG",TVCG
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str184
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Pink═════"  group-title="Pink",═════Pink═════
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str06
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink"  group-title="Pink",Pink
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str06
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink BH"  group-title="Pink",Pink BH
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str07
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink 2"  group-title="Pink",Pink 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str26
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink 3"  group-title="Pink",Pink 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str39
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Extra"  group-title="Pink",Pink Extra
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str28
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Prva Plus"  group-title="Pink",Prva Plus
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str30
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Film"  group-title="Pink",Pink Film
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str08
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Triller"  group-title="Pink",Pink Triller
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str45
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Action"  group-title="Pink",Pink Action
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str43
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Romance"  group-title="Pink",Pink Romance
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str47
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Horor"  group-title="Pink",Pink Horor
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str48
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Comedy"  group-title="Pink",Pink Comedy
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str49
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Sci-Fi"  group-title="Pink",Pink Sci-Fi
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str50
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Premium"  group-title="Pink",Pink Premium
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str51
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Music"  group-title="Pink",Pink Music
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str220
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Music 2"  group-title="Pink",Pink Music 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str221
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Kuvar"  group-title="Pink",Pink Kuvar
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str18
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Folk"  group-title="Pink",Pink Folk
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str54
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Western"  group-title="Pink",Pink Western
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str55
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Crime & Mistery"  group-title="Pink",Pink Crime & Mistery
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str206
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Classic"  group-title="Pink",Pink Classic
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str207
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Zabava"  group-title="Pink",Pink Zabava
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str208
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink World"  group-title="Pink",Pink World
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str209
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Movies"  group-title="Pink",Pink Movies
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str210
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Show"  group-title="Pink",Pink Show
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str211
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Koncert"  group-title="Pink",Pink Koncert
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str212
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Soap"  group-title="Pink",Pink Soap
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str213
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Folk 2"  group-title="Pink",Pink Folk 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str214
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Plus"  group-title="Pink",Pink Plus
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str127
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Film & Serija═════"  group-title="Film",═════Film & Serija═════
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str67
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO Adria"  group-title="Film",HBO Adria
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str67
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Film",HBO 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str68
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Film",HBO 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str144
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinestar"  group-title="Film",Cinestar
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str74
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinestar 1"  group-title="Film",Cinestar 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str65
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinestar 2"  group-title="Film",Cinestar 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str66
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Film",Cinemax
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str64
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Film",Cinemax 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str69
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinestar Action"  group-title="Film",Cinestar Action
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str205
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Movies"  group-title="Film",Fox Movies
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str75b
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sci Fi Adria"  group-title="Film",Sci Fi Adria
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str77b
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Film",TV 1000
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str79b
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Adria"  group-title="Film",Fox Adria
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str80b
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FilmBox Plus"  group-title="Film",FilmBox Plus
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str260
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FilmBox Extra"  group-title="Film",FilmBox Extra
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str261
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M1 Film"  group-title="Film",M1 Film
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str216
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Crime"  group-title="Film",Fox Crime
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str14
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Komedi"  group-title="Film",Film Komedi
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr109
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Life"  group-title="Film",Fox Life
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str61
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Hits"  group-title="Film",Film Hits
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr101
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Drame"  group-title="Film",Film Drame
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr102
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox AL"  group-title="Film",Fox AL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr241
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Life AL"  group-title="Film",Fox Life AL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr242
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Crime"  group-title="Film",Fox Crime
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr243
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kino Premiere 1 AL"  group-title="Film",Kino Premiere 1 AL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr244
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kino Premiere 2 AL"  group-title="Film",Kino Premiere 2 AL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr245
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kino Premiere 3 AL"  group-title="Film",Kino Premiere 3 AL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr246
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Hits Plus1"  group-title="Film",Film Hits Plus1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr247
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Gold 2"  group-title="Film",Film Gold 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr248
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Gold 3"  group-title="Film",Film Gold 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr249
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Gold 4"  group-title="Film",Film Gold 4
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr250
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Doku & Style═════"  group-title="Doku & Style",═════Doku & Style═════
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str44
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Doku & Style",National Geographic
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str44
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery"  group-title="Doku & Style",Discovery
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str27
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Crime & Investigation"  group-title="Doku & Style",Crime & Investigation
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str199
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="E !"  group-title="Doku & Style",E !
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str200
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="History"  group-title="Doku & Style",History
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str201
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="Doku & Style",Animal Planet
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str202
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lov i Ribolov"  group-title="Doku & Style",Lov i Ribolov
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str203
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN Adria"  group-title="Doku & Style",AXN Adria
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str204
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NatGeo Wild"  group-title="Doku & Style",NatGeo Wild
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str219
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Explorer"  group-title="Doku & Style",Viasat Explorer
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str255
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Doku & Style",Viasat History
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str256
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Doku & Style",Viasat Nature
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str257
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Davinchi Learning"  group-title="Doku & Style",Davinchi Learning
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str258
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Travel Channel"  group-title="Doku & Style",Travel Channel
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str259
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Kids═════"  group-title="Kids",═════Kids═════
+http://123.456.789
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Kockica"  group-title="Kids",RTL Kockica
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str114
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Kids",Nickelodeon
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str46
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Super Kids"  group-title="Kids",Super Kids
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str186
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MiniMax"  group-title="Kids",MiniMax
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str187
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mini Ultra"  group-title="Kids",Mini Ultra
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str115
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hayatovci"  group-title="Kids",Hayatovci
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str130
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Sport═════"  group-title="Sport",═════Sport═════
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str19
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 1"  group-title="Sport",Arenasport 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str21
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 2"  group-title="Sport",Arenasport 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str22
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 3"  group-title="Sport",Arenasport 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str23
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 4"  group-title="Sport",Arenasport 4
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str24
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 5"  group-title="Sport",Arenasport 5
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str16
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SK 1"  group-title="Sport",SK 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str19
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SK 2"  group-title="Sport",SK 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str20
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SK 3"  group-title="Sport",SK 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str15
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 1 HR"  group-title="Sport",Arenasport 1 HR
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str192
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 2 HR"  group-title="Sport",Arenasport 2 HR
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str193
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 3 HR"  group-title="Sport",Arenasport 3 HR
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str194
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 4 HR"  group-title="Sport",Arenasport 4 HR
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str195
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 5 HR"  group-title="Sport",Arenasport 5 HR
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str196
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersport 1"  group-title="Sport",Supersport 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr81
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersport 2"  group-title="Sport",Supersport 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr82
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersport 3"  group-title="Sport",Supersport 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr83
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersport 4"  group-title="Sport",Supersport 4
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr84
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport"  group-title="Sport",Eurosport
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str62
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str63
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Deutsch═════"  group-title="Deutsch",═════Deutsch═════
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str269
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arte"  group-title="Deutsch",Arte
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str275
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARD"  group-title="Deutsch",ARD
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str267
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ZDF"  group-title="Deutsch",ZDF
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str268
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL DE"  group-title="Deutsch",RTL DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str269
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL 2 DE"  group-title="Deutsch",RTL 2 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str270
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAT 1"  group-title="Deutsch",SAT 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str271
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vox"  group-title="Deutsch",Vox
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str272
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pro 7"  group-title="Deutsch",Pro 7
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str273
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kabel 1"  group-title="Deutsch",Kabel 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str274
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Kika"  group-title="Deutsch",S Kika
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str276
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Discovery Channel"  group-title="Deutsch",S Discovery Channel
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str277
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S National Geographic"  group-title="Deutsch",S National Geographic
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str278
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Nat Geo Wild"  group-title="Deutsch",S Nat Geo Wild
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str279
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S History"  group-title="Deutsch",S History
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str280
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Dmax"  group-title="Deutsch",S Dmax
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str281
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Syfy"  group-title="Deutsch",S Syfy
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str282
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S AXN"  group-title="Deutsch",S AXN
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str283
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Fox"  group-title="Deutsch",S Fox
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str284
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Hits"  group-title="Deutsch",S Hits
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str285
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Cinema De"  group-title="Deutsch",Sky Cinema De
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str116
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Action De"  group-title="Deutsch",Sky Action De
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str117
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Cinema 24 De"  group-title="Deutsch",Sky Cinema 24 De
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str118
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport 1 De"  group-title="Deutsch",Sky Sport 1 De
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str119
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport 2 De"  group-title="Deutsch",Sky Sport 2 De
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str120
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Bundesliga"  group-title="Deutsch",Sky Bundesliga
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str121
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lig TV 1"  group-title="Deutsch",Lig TV 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str122
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lig TV 2"  group-title="Deutsch",Lig TV 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str123
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lig TV 3"  group-title="Deutsch",Lig TV 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str124
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport News DE"  group-title="Deutsch",Sky Sport News DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str262
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Bundesliga 2 DE"  group-title="Deutsch",Sky Bundesliga 2 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str263
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Bundesliga 3 DE"  group-title="Deutsch",Sky Bundesliga 3 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str264
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Bundesliga 4 DE"  group-title="Deutsch",Sky Bundesliga 4 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str265
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Bundesliga 5 DE"  group-title="Deutsch",Sky Bundesliga 5 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str266
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Comedy"  group-title="Deutsch",S Comedy
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str286
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Atlantic"  group-title="Deutsch",S Atlantic
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str287
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Emotion"  group-title="Deutsch",S Emotion
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str288
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Krimi"  group-title="Deutsch",S Krimi
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str289
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S 13 Street"  group-title="Deutsch",S 13 Street
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str290
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Sele 1"  group-title="Deutsch",S Sele 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str291
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Sele 2"  group-title="Deutsch",S Sele 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str292
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Sele 3"  group-title="Deutsch",S Sele 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str293
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Sele 4"  group-title="Deutsch",S Sele 4
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str294
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Sele 5"  group-title="Deutsch",S Sele 5
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str295
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Sele 6"  group-title="Deutsch",S Sele 6
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str296
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sports Time 1 DE"  group-title="Deutsch",Sports Time 1 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str297
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sports Time 2 DE"  group-title="Deutsch",Sports Time 2 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str298
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sports Time 3 De"  group-title="Deutsch",Sports Time 3 De
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str299
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sports Time 4 DE"  group-title="Deutsch",Sports Time 4 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str300
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sports Time 5 DE"  group-title="Deutsch",Sports Time 5 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str301
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sports Time 6 DE"  group-title="Deutsch",Sports Time 6 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str302
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="3 SAT"  group-title="Deutsch",3 SAT
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str303
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ORF 1"  group-title="Deutsch",ORF 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str304
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ORF 2"  group-title="Deutsch",ORF 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str305
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATV 24"  group-title="Deutsch",ATV 24
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str306
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S MGM"  group-title="Deutsch",S MGM
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str307
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sixx"  group-title="Deutsch",Sixx
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str308
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Super DE"  group-title="Deutsch",RTL Super DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str309
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="History"  group-title="Deutsch",History
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str310
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Baden TV DE"  group-title="Deutsch",Baden TV DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str311
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Joiz DE"  group-title="Deutsch",Joiz DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str312
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="QVC DE"  group-title="Deutsch",QVC DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str313
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telebarn DE"  group-title="Deutsch",Telebarn DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str314
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tagesschau 24 DE"  group-title="Deutsch",Tagesschau 24 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str315
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Welt Der Wunder TV DE"  group-title="Deutsch",Welt Der Wunder TV DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str316
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RIC DE"  group-title="Deutsch",RIC DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str317
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RAN 1 Dessau DE"  group-title="Deutsch",RAN 1 Dessau DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str318
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pro 7 Max"  group-title="Deutsch",Pro 7 Max
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str319
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NDR DE"  group-title="Deutsch",NDR DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str320
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WDR DE"  group-title="Deutsch",WDR DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str321
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT Film DE"  group-title="Deutsch",TNT Film DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str322
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT Serie DE"  group-title="Deutsch",TNT Serie DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str323
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Movie Family DE"  group-title="Deutsch",S Movie Family DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str324
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Channel DE"  group-title="Deutsch",Disney Channel DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str325
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Crimi DE"  group-title="Deutsch",RTL Crimi DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str326
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Nitro DE"  group-title="Deutsch",RTL Nitro DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str327
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Passion DE"  group-title="Deutsch",RTL Passion DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str328
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SRF 1 DE"  group-title="Deutsch",SRF 1 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str329
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SRF 2 DE"  group-title="Deutsch",SRF 2 DE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str330
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Netherlands═════"  group-title="Netherlands",═════Netherlands═════
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str334
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO NL"  group-title="Netherlands",HBO NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str331
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 2 NL"  group-title="Netherlands",HBO 2 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str332
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 3 NL"  group-title="Netherlands",HBO 3 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str333
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film 1 Sundance NL"  group-title="Netherlands",Film 1 Sundance NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str334
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film 1 Premiere NL"  group-title="Netherlands",Film 1 Premiere NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str335
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film 1 Comedy NL"  group-title="Netherlands",Film 1 Comedy NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str336
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film 1 Spotlight NL"  group-title="Netherlands",Film 1 Spotlight NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str337
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film 1 Action NL"  group-title="Netherlands",Film 1 Action NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str338
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sport 1 NL"  group-title="Netherlands",Fox Sport 1 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str339
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sport 2 NL"  group-title="Netherlands",Fox Sport 2 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str340
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sport 3 NL"  group-title="Netherlands",Fox Sport 3 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str341
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sport 4 NL"  group-title="Netherlands",Fox Sport 4 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str342
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sport 5 NL"  group-title="Netherlands",Fox Sport 5 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str343
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sport 6 NL"  group-title="Netherlands",Fox Sport 6 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str344
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NPO 1 NL"  group-title="Netherlands",NPO 1 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str345
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NPO 2 NL"  group-title="Netherlands",NPO 2 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str346
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NPO 3 NL"  group-title="Netherlands",NPO 3 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str347
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL 4 NL"  group-title="Netherlands",RTL 4 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str348
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL 5 NL"  group-title="Netherlands",RTL 5 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str349
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Net 5 NL"  group-title="Netherlands",Net 5 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str350
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SBS 6 NL"  group-title="Netherlands",SBS 6 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str351
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL 7 NL"  group-title="Netherlands",RTL 7 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str352
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL 8 NL"  group-title="Netherlands",RTL 8 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str353
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SBS 9 NL"  group-title="Netherlands",SBS 9 NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str354
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Crime NL"  group-title="Netherlands",RTL Crime NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str355
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="13 TH Street NL"  group-title="Netherlands",13 TH Street NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str356
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Syfy NL"  group-title="Netherlands",Syfy NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str357
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Z NL"  group-title="Netherlands",RTL Z NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str358
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Planet NL"  group-title="Netherlands",Animal Planet NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str359
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="History NL"  group-title="Netherlands",History NL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str360
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════SK═════"  group-title="SK",═════SK═════
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str35
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MRT 2"  group-title="SK",MRT 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str56
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MRT 3"  group-title="SK",MRT 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str188
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sutel"  group-title="SK",Sutel
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str189
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Comedy Central Extra"  group-title="SK",Comedy Central Extra
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str190
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Plus Kumanovo"  group-title="SK",TV Plus Kumanovo
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str191
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TLC"  group-title="SK",TLC
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str197
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24 Kitchen"  group-title="Doku & Style",24 Kitchen
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str198
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 6"  group-title="SK",TV 6
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str218
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film nje"  group-title="SK",Film nje
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr85
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Dy"  group-title="SK",Film Dy
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr86
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Klan Kosova"  group-title="SK",Klan Kosova
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr87
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Film" tvg-name="Film Triller"  group-title="SK",Film Triller
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr88
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="T 1"  group-title="SK",T 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr89
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cufo"  group-title="SK",Cufo
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr90
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alsat M"  group-title="SK",Alsat M
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr91
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Klan"  group-title="SK",TV Klan
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr92
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KTV"  group-title="SK",KTV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr93
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Top Channel"  group-title="SK",Top Channel
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr94
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Autor"  group-title="SK",Film Autor
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr95
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanali 7"  group-title="SK",Kanali 7
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr96
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTK 1"  group-title="SK",RTK 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr97
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVSH"  group-title="SK",TVSH
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr98
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STV Folk"  group-title="SK",STV Folk
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr99
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersonic"  group-title="SK",Supersonic
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr100
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 21"  group-title="SK",RTV 21
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr103
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="First TV"  group-title="SK",First TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr104
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Club TV"  group-title="SK",Club TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr105
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Aksion"  group-title="SK",Film Aksion
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr106
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EXP Shkence"  group-title="SK",EXP Shkence
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr107
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bang Bang"  group-title="SK",Bang Bang
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr108
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Digi Gold"  group-title="SK",Digi Gold
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr110
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RRokum"  group-title="SK",RRokum
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr111
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Music Al"  group-title="SK",Music Al
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr112
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Plus HD"  group-title="SK",Plus HD
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr113
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Show TV TR"  group-title="SK",Show TV TR
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str125
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal D TR"  group-title="SK",Kanal D TR
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str126
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal 5 plus MK"  group-title="SK",Kanal 5 plus MK
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str76b
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24 Vesti MK"  group-title="SK",24 Vesti MK
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str78b
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Exp Natyra"  group-title="SK",Exp Natyra
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr128
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 21 Plus"  group-title="SK",RTV 21 Plus
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr129
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dasma TV"  group-title="SK",Dasma TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr131
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vizion Plus"  group-title="SK",Vizion Plus
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr132
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Top News"  group-title="SK",Top News
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr133
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBF Music"  group-title="SK",BBF Music
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr134
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 21 Popullore"  group-title="SK",RTV 21 Popullore
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr135
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 21 Juniore"  group-title="SK",RTV 21 Juniore
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr136
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Folk Plus"  group-title="SK",Folk Plus
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr137
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Era TV"  group-title="SK",Era TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr138
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stinet"  group-title="SK",Stinet
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr139
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jolly HD"  group-title="SK",Jolly HD
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr140
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersport Kosova 1"  group-title="SK",Supersport Kosova 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr145
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersport Kosova 2"  group-title="SK",Supersport Kosova 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr146
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Super"  group-title="SK",Tring Super
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr147
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Planet"  group-title="SK",Tring Planet
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr148
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Max"  group-title="SK",Tring Max
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr149
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Life"  group-title="SK",Tring Life
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr150
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Fantasy"  group-title="SK",Tring Fantasy
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr151
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTK 3"  group-title="SK",RTK 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr152
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Tring"  group-title="SK",Tring Tring
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr153
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTK 4"  group-title="SK",RTK 4
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr154
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 21 Mix"  group-title="SK",RTV 21 Mix
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr222
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="3 Plus"  group-title="SK",3 Plus
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr223
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="On TV"  group-title="SK",On TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr224
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC News"  group-title="SK",ABC News
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr225
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Clic TV"  group-title="SK",Clic TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr226
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Explorer History"  group-title="SK",Explorer History
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr227
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Sport News"  group-title="SK",Tring Sport News
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr228
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Sport 1"  group-title="SK",Tring Sport 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr229
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Sport 2"  group-title="SK",Tring Sport 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr230
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Sport 3"  group-title="SK",Tring Sport 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr231
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Sport 4"  group-title="SK",Tring Sport 4
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr232
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sofia"  group-title="SK",Sofia
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr233
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tip TV"  group-title="SK",Tip TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr234
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Comedy"  group-title="SK",Tring Comedy
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr235
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Shqip"  group-title="SK",Tring Shqip
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr236
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Travel AL"  group-title="SK",Travel AL
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr237
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Motors TV"  group-title="SK",Motors TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr238
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Muse"  group-title="SK",Muse
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr239
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Smile TV"  group-title="SK",Smile TV
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/albstr240
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VH 1"  group-title="SK",VH 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str254
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DR 1  DK"  group-title="SK",DR 1  DK
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str361
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DR 2  DK"  group-title="SK",DR 2  DK
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str362
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal 4  DK"  group-title="SK",Kanal 4  DK
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str363
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="6 Eren  DK"  group-title="SK",6 Eren  DK
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str364
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STV 1 SE"  group-title="SK",STV 1 SE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str365
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SVT 2  SE"  group-title="SK",SVT 2  SE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str366
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 3  SE"  group-title="SK",TV 3  SE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str367
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 4  SE"  group-title="SK",TV 4  SE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str368
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal 5  SE"  group-title="SK",Kanal 5  SE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str369
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Hits  SE"  group-title="SK",Viasat Hits  SE
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str370
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Sitel"  group-title="SK",TV Sitel
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str33
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sitel 3"  group-title="SK",Sitel 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str52
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal 5 MK"  group-title="SK",Kanal 5 MK
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str34
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telma"  group-title="SK",Telma
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str35
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A1 Strumica"  group-title="SK",A1 Strumica
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str53
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MRT 1"  group-title="SK",MRT 1
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str31
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alfa MK"  group-title="SK",Alfa MK
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str32
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Adult XXX═════"  group-title="XXX",═════Adult XXX═════
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str60
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="XXX"  group-title="XXX",XXX
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str60
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="XXX 2"  group-title="XXX",XXX 2
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str141
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="XXX 3"  group-title="XXX",XXX 3
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str142
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="XXX 4"  group-title="XXX",XXX 4
+http://sandi.cristianosanel:sanelcausevic@tvadria.co.uk:8080/str143
+
+#EXTINF:0, tvg-id="1040" tvg-logo="/noicon.png" tvg-name="----- Videoteka ----- - ----- Videoteka -----"  group-title="Videoteka",----- Videoteka ----- - ----- Videoteka -----
+Group N/A
+
+#EXTINF:0, tvg-id="1041" tvg-logo="/noicon.png" tvg-name="Akcija tigar - Akcija tigar"  group-title="Videoteka",Akcija tigar - Akcija tigar
+http://movie.bossna-caffe.com/movies/domaci/02.avi
+
+#EXTINF:0, tvg-id="1042" tvg-logo="/noicon.png" tvg-name="Apsolutnih sto - Apsolutnih sto"  group-title="Videoteka",Apsolutnih sto - Apsolutnih sto
+http://movie.bossna-caffe.com/movies/domaci/03.avi
+
+#EXTINF:0, tvg-id="1043" tvg-logo="/noicon.png" tvg-name="Balkanski spijun - Balkanski spijun"  group-title="Videoteka",Balkanski spijun - Balkanski spijun
+http://movie.bossna-caffe.com/movies/domaci/04.avi
+
+#EXTINF:0, tvg-id="1044" tvg-logo="/noicon.png" tvg-name="Duhovi Sarajeva - Duhovi Sarajeva"  group-title="Videoteka",Duhovi Sarajeva - Duhovi Sarajeva
+http://movie.bossna-caffe.com/movies/domaci/05.mp4
+
+#EXTINF:0, tvg-id="1045" tvg-logo="/noicon.png" tvg-name="Idi mi dodji mi - Idi mi dodji mi"  group-title="Videoteka",Idi mi dodji mi - Idi mi dodji mi
+http://movie.bossna-caffe.com/movies/domaci/06.avi
+
+#EXTINF:0, tvg-id="1046" tvg-logo="/noicon.png" tvg-name="Kakav deda takav unuk - Kakav deda takav unuk"  group-title="Videoteka",Kakav deda takav unuk - Kakav deda takav unuk
+http://movie.bossna-caffe.com/movies/domaci/07.avi
+
+#EXTINF:0, tvg-id="1047" tvg-logo="/noicon.png" tvg-name="Karaula - Karaula"  group-title="Videoteka",Karaula - Karaula
+http://movie.bossna-caffe.com/movies/domaci/08.avi
+
+#EXTINF:0, tvg-id="1048" tvg-logo="/noicon.png" tvg-name="Ko To Tamo Peva - Ko To Tamo Peva"  group-title="Videoteka",Ko To Tamo Peva - Ko To Tamo Peva
+http://movie.bossna-caffe.com/movies/domaci/09.mp4
+
+#EXTINF:0, tvg-id="1049" tvg-logo="/noicon.png" tvg-name="Kuduz - Kuduz"  group-title="Videoteka",Kuduz - Kuduz
+http://movie.bossna-caffe.com/movies/domaci/10.avi
+
+#EXTINF:0, tvg-id="1050" tvg-logo="/noicon.png" tvg-name="Lajanje na zvezde - Lajanje na zvezde"  group-title="Videoteka",Lajanje na zvezde - Lajanje na zvezde
+http://movie.bossna-caffe.com/movies/domaci/11.avi
+
+#EXTINF:0, tvg-id="1051" tvg-logo="/noicon.png" tvg-name="Ljubi ljubi al glavu ne gubi - Ljubi ljubi al glavu ne gubi"  group-title="Videoteka",Ljubi ljubi al glavu ne gubi - Ljubi ljubi al glavu ne gubi
+http://movie.bossna-caffe.com/movies/domaci/12.avi
+
+#EXTINF:0, tvg-id="1052" tvg-logo="/noicon.png" tvg-name="Mali Budo - Mali Budo"  group-title="Videoteka",Mali Budo - Mali Budo
+http://movie.bossna-caffe.com/movies/domaci/13.mp4
+
+#EXTINF:0, tvg-id="1053" tvg-logo="/noicon.png" tvg-name="Maratonci Trce Pocasni Krug - Maratonci Trce Pocasni Krug"  group-title="Videoteka",Maratonci Trce Pocasni Krug - Maratonci Trce Pocasni Krug
+http://movie.bossna-caffe.com/movies/domaci/14.mkv
+
+#EXTINF:0, tvg-id="1054" tvg-logo="/noicon.png" tvg-name="Mi nismo andjeli - Mi nismo andjeli"  group-title="Videoteka",Mi nismo andjeli - Mi nismo andjeli
+http://movie.bossna-caffe.com/movies/domaci/15.avi
+
+#EXTINF:0, tvg-id="1055" tvg-logo="/noicon.png" tvg-name="Mi nismo andjeli 3 - Mi nismo andjeli 3"  group-title="Videoteka",Mi nismo andjeli 3 - Mi nismo andjeli 3
+http://movie.bossna-caffe.com/movies/domaci/16.mp4
+
+#EXTINF:0, tvg-id="1056" tvg-logo="/noicon.png" tvg-name="Mrtav Ladan - Mrtav Ladan"  group-title="Videoteka",Mrtav Ladan - Mrtav Ladan
+http://movie.bossna-caffe.com/movies/domaci/17.mp4
+
+#EXTINF:0, tvg-id="1057" tvg-logo="/noicon.png" tvg-name="Munje - Munje"  group-title="Videoteka",Munje - Munje
+http://movie.bossna-caffe.com/movies/domaci/18.avi
+
+#EXTINF:0, tvg-id="1058" tvg-logo="/noicon.png" tvg-name="Nacionalna klasa - Nacionalna klasa"  group-title="Videoteka",Nacionalna klasa - Nacionalna klasa
+http://movie.bossna-caffe.com/movies/domaci/19.avi
+
+#EXTINF:0, tvg-id="1059" tvg-logo="/noicon.png" tvg-name="Nebo nad krajolikom - Nebo nad krajolikom"  group-title="Videoteka",Nebo nad krajolikom - Nebo nad krajolikom
+http://movie.bossna-caffe.com/movies/domaci/20.avi
+
+#EXTINF:0, tvg-id="1060" tvg-logo="/noicon.png" tvg-name="Nije lako sa muskarcima - Nije lako sa muskarcima"  group-title="Videoteka",Nije lako sa muskarcima - Nije lako sa muskarcima
+http://movie.bossna-caffe.com/movies/domaci/21.avi
+
+#EXTINF:0, tvg-id="1061" tvg-logo="/noicon.png" tvg-name="Otac na sluzbenom putu - Otac na sluzbenom putu"  group-title="Videoteka",Otac na sluzbenom putu - Otac na sluzbenom putu
+http://movie.bossna-caffe.com/movies/domaci/22.mp4
+
+#EXTINF:0, tvg-id="1062" tvg-logo="/noicon.png" tvg-name="Partizanska eskadrila - Partizanska eskadrila"  group-title="Videoteka",Partizanska eskadrila - Partizanska eskadrila
+http://movie.bossna-caffe.com/movies/domaci/23.mkv
+
+#EXTINF:0, tvg-id="1063" tvg-logo="/noicon.png" tvg-name="Sekula i njegove zene - Sekula i njegove zene"  group-title="Videoteka",Sekula i njegove zene - Sekula i njegove zene
+http://movie.bossna-caffe.com/movies/domaci/24.mp4
+
+#EXTINF:0, tvg-id="1064" tvg-logo="/noicon.png" tvg-name="Sjecas li se Dolly Bell - Sjecas li se Dolly Bell"  group-title="Videoteka",Sjecas li se Dolly Bell - Sjecas li se Dolly Bell
+http://movie.bossna-caffe.com/movies/domaci/25.avi
+
+#EXTINF:0, tvg-id="1065" tvg-logo="/noicon.png" tvg-name="Sta se zgodi kad se ljubav rodi - Sta se zgodi kad se ljubav rodi"  group-title="Videoteka",Sta se zgodi kad se ljubav rodi - Sta se zgodi kad se ljubav rodi
+http://movie.bossna-caffe.com/movies/domaci/26.avi
+
+#EXTINF:0, tvg-id="1066" tvg-logo="/noicon.png" tvg-name="Tesna koza 1 - Tesna koza 1"  group-title="Videoteka",Tesna koza 1 - Tesna koza 1
+http://movie.bossna-caffe.com/movies/domaci/27.avi
+
+#EXTINF:0, tvg-id="1067" tvg-logo="/noicon.png" tvg-name="Tesna koza 2 - Tesna koza 2"  group-title="Videoteka",Tesna koza 2 - Tesna koza 2
+http://movie.bossna-caffe.com/movies/domaci/28.avi
+
+#EXTINF:0, tvg-id="1068" tvg-logo="/noicon.png" tvg-name="Tesna koza 3 - Tesna koza 3"  group-title="Videoteka",Tesna koza 3 - Tesna koza 3
+http://s6.bossna-caffe.com:80/live?channelId=1068&uid=14947&deviceUser=matilda1&devicePass=RDZrdrmatilda1676vhgc
+
+#EXTINF:0, tvg-id="1069" tvg-logo="/noicon.png" tvg-name="Tesna koza 4 - Tesna koza 4"  group-title="Videoteka",Tesna koza 4 - Tesna koza 4
+http://movie.bossna-caffe.com/movies/domaci/30.avi
+
+#EXTINF:0, tvg-id="1070" tvg-logo="/noicon.png" tvg-name="Valter brani Sarajevo - Valter brani Sarajevo"  group-title="Videoteka",Valter brani Sarajevo - Valter brani Sarajevo
+http://movie.bossna-caffe.com/movies/domaci/31.avi
+
+#EXTINF:0, tvg-id="1071" tvg-logo="/noicon.png" tvg-name="Zikina Dinastija - Zikina Dinastija"  group-title="Videoteka",Zikina Dinastija - Zikina Dinastija
+http://movie.bossna-caffe.com/movies/domaci/34.avi
+
+#EXTINF:0, tvg-id="1072" tvg-logo="/noicon.png" tvg-name="Zikina Dinastija 2 - Zikina Dinastija 2"  group-title="Videoteka",Zikina Dinastija 2 - Zikina Dinastija 2
+http://movie.bossna-caffe.com/movies/domaci/32.mp4
+
+#EXTINF:0, tvg-id="1073" tvg-logo="/noicon.png" tvg-name="Zikina Dinastija 4 - Zikina Dinastija 4"  group-title="Videoteka",Zikina Dinastija 4 - Zikina Dinastija 4
+http://movie.bossna-caffe.com/movies/domaci/33.avi
+
+#EXTINF:0, tvg-id="1074" tvg-logo="/noicon.png" tvg-name="Zivi i mrtvi - Zivi i mrtvi"  group-title="Videoteka",Zivi i mrtvi - Zivi i mrtvi
+http://movie.bossna-caffe.com/movies/domaci/01.avi
+
+#EXTINF:0, tvg-id="1075" tvg-logo="/noicon.png" tvg-name="----- Strani ----- - ----- Strani -----"  group-title="Videoteka",----- Strani ----- - ----- Strani -----
+Group N/A
+
+#EXTINF:0, tvg-id="1076" tvg-logo="/noicon.png" tvg-name="2 Guns Zero Tolerance - 2 Guns Zero Tolerance"  group-title="Videoteka",2 Guns Zero Tolerance - 2 Guns Zero Tolerance
+http://movie.bossna-caffe.com/movies/strani/01.mp4
+
+#EXTINF:0, tvg-id="1077" tvg-logo="/noicon.png" tvg-name="American Hero - American Hero"  group-title="Videoteka",American Hero - American Hero
+http://movie.bossna-caffe.com/movies/strani/02.mp4
+
+#EXTINF:0, tvg-id="1078" tvg-logo="/noicon.png" tvg-name="Band of Robbers - Band of Robbers"  group-title="Videoteka",Band of Robbers - Band of Robbers
+http://movie.bossna-caffe.com/movies/strani/03.mp4
+
+#EXTINF:0, tvg-id="1079" tvg-logo="/noicon.png" tvg-name="Bridge of Spies - Bridge of Spies"  group-title="Videoteka",Bridge of Spies - Bridge of Spies
+http://movie.bossna-caffe.com/movies/strani/04.mp4
+
+#EXTINF:0, tvg-id="1080" tvg-logo="/noicon.png" tvg-name="Creed - Creed"  group-title="Videoteka",Creed - Creed
+http://movie.bossna-caffe.com/movies/strani/05.mp4
+
+#EXTINF:0, tvg-id="1081" tvg-logo="/noicon.png" tvg-name="Dirty Grandpa - Dirty Grandpa"  group-title="Videoteka",Dirty Grandpa - Dirty Grandpa
+http://movie.bossna-caffe.com/movies/strani/06.mp4
+
+#EXTINF:0, tvg-id="1082" tvg-logo="/noicon.png" tvg-name="Gangster Squad - Gangster Squad"  group-title="Videoteka",Gangster Squad - Gangster Squad
+http://movie.bossna-caffe.com/movies/strani/07.mp4
+
+#EXTINF:0, tvg-id="1083" tvg-logo="/noicon.png" tvg-name="Irrational Man - Irrational Man"  group-title="Videoteka",Irrational Man - Irrational Man
+http://movie.bossna-caffe.com/movies/strani/08.mp4
+
+#EXTINF:0, tvg-id="1084" tvg-logo="/noicon.png" tvg-name="Jurassic World - Jurassic World"  group-title="Videoteka",Jurassic World - Jurassic World
+http://movie.bossna-caffe.com/movies/strani/09.mp4
+
+#EXTINF:0, tvg-id="1085" tvg-logo="/noicon.png" tvg-name="Kingsman The Secret Service - Kingsman The Secret Service"  group-title="Videoteka",Kingsman The Secret Service - Kingsman The Secret Service
+http://movie.bossna-caffe.com/movies/strani/10.mp4
+
+#EXTINF:0, tvg-id="1086" tvg-logo="/noicon.png" tvg-name="Laugh Killer Laugh - Laugh Killer Laugh"  group-title="Videoteka",Laugh Killer Laugh - Laugh Killer Laugh
+http://movie.bossna-caffe.com/movies/strani/11.mp4
+
+#EXTINF:0, tvg-id="1087" tvg-logo="/noicon.png" tvg-name="Legend - Legend"  group-title="Videoteka",Legend - Legend
+http://movie.bossna-caffe.com/movies/strani/12.mp4
+
+#EXTINF:0, tvg-id="1088" tvg-logo="/noicon.png" tvg-name="London Has Fallen - London Has Fallen"  group-title="Videoteka",London Has Fallen - London Has Fallen
+http://movie.bossna-caffe.com/movies/strani/13.mp4
+
+#EXTINF:0, tvg-id="1089" tvg-logo="/noicon.png" tvg-name="Mad Max Fury Road - Mad Max Fury Road"  group-title="Videoteka",Mad Max Fury Road - Mad Max Fury Road
+http://movie.bossna-caffe.com/movies/strani/14.mp4
+
+#EXTINF:0, tvg-id="1090" tvg-logo="/noicon.png" tvg-name="Risen - Risen"  group-title="Videoteka",Risen - Risen
+http://movie.bossna-caffe.com/movies/strani/15.mp4
+
+#EXTINF:0, tvg-id="1091" tvg-logo="/noicon.png" tvg-name="San Andreas - San Andreas"  group-title="Videoteka",San Andreas - San Andreas
+http://movie.bossna-caffe.com/movies/strani/16.mp4
+
+#EXTINF:0, tvg-id="1092" tvg-logo="/noicon.png" tvg-name="Slow West - Slow West"  group-title="Videoteka",Slow West - Slow West
+http://movie.bossna-caffe.com/movies/strani/17.mp4
+
+#EXTINF:0, tvg-id="1093" tvg-logo="/noicon.png" tvg-name="Star Wars The Force Awakens - Star Wars The Force Awakens"  group-title="Videoteka",Star Wars The Force Awakens - Star Wars The Force Awakens
+http://movie.bossna-caffe.com/movies/strani/18.mp4
+
+#EXTINF:0, tvg-id="1094" tvg-logo="/noicon.png" tvg-name="The Benefactor - The Benefactor"  group-title="Videoteka",The Benefactor - The Benefactor
+http://movie.bossna-caffe.com/movies/strani/19.mp4
+
+#EXTINF:0, tvg-id="1095" tvg-logo="/noicon.png" tvg-name="The Expendables 3 - The Expendables 3"  group-title="Videoteka",The Expendables 3 - The Expendables 3
+http://movie.bossna-caffe.com/movies/strani/20.mp4
+
+#EXTINF:0, tvg-id="1096" tvg-logo="/noicon.png" tvg-name="The Forger - The Forger"  group-title="Videoteka",The Forger - The Forger
+http://movie.bossna-caffe.com/movies/strani/21.mp4
+
+#EXTINF:0, tvg-id="1097" tvg-logo="/noicon.png" tvg-name="The Last Witch Hunter - The Last Witch Hunter"  group-title="Videoteka",The Last Witch Hunter - The Last Witch Hunter
+http://movie.bossna-caffe.com/movies/strani/22.mp4
+
+#EXTINF:0, tvg-id="1098" tvg-logo="/noicon.png" tvg-name="The Legend of Tarzan - The Legend of Tarzan"  group-title="Videoteka",The Legend of Tarzan - The Legend of Tarzan
+http://movie.bossna-caffe.com/movies/strani/23.mp4
+
+#EXTINF:0, tvg-id="1099" tvg-logo="/noicon.png" tvg-name="The Martian - The Martian"  group-title="Videoteka",The Martian - The Martian
+http://movie.bossna-caffe.com/movies/strani/23.mp4
+
+#EXTINF:0, tvg-id="1100" tvg-logo="/noicon.png" tvg-name="The Trust - The Trust"  group-title="Videoteka",The Trust - The Trust
+http://movie.bossna-caffe.com/movies/strani/25.mp4
+
+#EXTINF:0, tvg-id="1101" tvg-logo="/noicon.png" tvg-name="The Big Short - The Big Short"  group-title="Videoteka",The Big Short - The Big Short
+http://movie.bossna-caffe.com/movies/strani/26.mp4
+
+#EXTINF:0, tvg-id="1102" tvg-logo="/noicon.png" tvg-name="The Hateful Eight - The Hateful Eight"  group-title="Videoteka",The Hateful Eight - The Hateful Eight
+http://movie.bossna-caffe.com/movies/strani/27.mp4
+
+#EXTINF:0, tvg-id="1103" tvg-logo="/noicon.png" tvg-name="The Revenant - The Revenant"  group-title="Videoteka",The Revenant - The Revenant
+http://movie.bossna-caffe.com/movies/strani/28.mp4
+
+#EXTINF:0, tvg-id="1104" tvg-logo="/noicon.png" tvg-name="Warcraft - Warcraft"  group-title="Videoteka",Warcraft - Warcraft
+http://movie.bossna-caffe.com/movies/strani/29.mp4
+
+#EXTINF:0, tvg-id="1105" tvg-logo="/noicon.png" tvg-name="----- Crtani  ----- - ----- Crtani  -----"  group-title="Videoteka",----- Crtani  ----- - ----- Crtani  -----
+Group N/A
+
+#EXTINF:0, tvg-id="1106" tvg-logo="/noicon.png" tvg-name="Alvin i Veverice 3 - Alvin i Veverice 3"  group-title="Videoteka",Alvin i Veverice 3 - Alvin i Veverice 3
+http://movie.bossna-caffe.com/movies/crtani/01.avi
+
+#EXTINF:0, tvg-id="1107" tvg-logo="/noicon.png" tvg-name="Arthur u zemlji Minimoya - Arthur u zemlji Minimoya"  group-title="Videoteka",Arthur u zemlji Minimoya - Arthur u zemlji Minimoya
+http://movie.bossna-caffe.com/movies/crtani/02.mkv
+
+#EXTINF:0, tvg-id="1108" tvg-logo="/noicon.png" tvg-name="Automobili - Automobili"  group-title="Videoteka",Automobili - Automobili
+http://movie.bossna-caffe.com/movies/crtani/03.avi
+
+#EXTINF:0, tvg-id="1109" tvg-logo="/noicon.png" tvg-name="Avioni 2 Nebeski vatrogasci - Avioni 2 Nebeski vatrogasci"  group-title="Videoteka",Avioni 2 Nebeski vatrogasci - Avioni 2 Nebeski vatrogasci
+http://movie.bossna-caffe.com/movies/crtani/04.avi
+
+#EXTINF:0, tvg-id="1110" tvg-logo="/noicon.png" tvg-name="Barbi i tri musketira - Barbi i tri musketira"  group-title="Videoteka",Barbi i tri musketira - Barbi i tri musketira
+http://movie.bossna-caffe.com/movies/crtani/05.avi
+
+#EXTINF:0, tvg-id="1111" tvg-logo="/noicon.png" tvg-name="Barbi Savrsen Bozic - Barbi Savrsen Bozic"  group-title="Videoteka",Barbi Savrsen Bozic - Barbi Savrsen Bozic
+http://movie.bossna-caffe.com/movies/crtani/06.avi
+
+#EXTINF:0, tvg-id="1112" tvg-logo="/noicon.png" tvg-name="Barbie i carobni pegaz - Barbie i carobni pegaz"  group-title="Videoteka",Barbie i carobni pegaz - Barbie i carobni pegaz
+http://movie.bossna-caffe.com/movies/crtani/07.avi
+
+#EXTINF:0, tvg-id="1113" tvg-logo="/noicon.png" tvg-name="Barbie Mariposa - Barbie Mariposa"  group-title="Videoteka",Barbie Mariposa - Barbie Mariposa
+http://movie.bossna-caffe.com/movies/crtani/08.avi
+
+#EXTINF:0, tvg-id="1114" tvg-logo="/noicon.png" tvg-name="Despicable Me 2 - Despicable Me 2"  group-title="Videoteka",Despicable Me 2 - Despicable Me 2
+http://movie.bossna-caffe.com/movies/crtani/10.mkv
+
+#EXTINF:0, tvg-id="1115" tvg-logo="/noicon.png" tvg-name="Dinosaurus - Dinosaurus"  group-title="Videoteka",Dinosaurus - Dinosaurus
+http://movie.bossna-caffe.com/movies/crtani/11.avi
+
+#EXTINF:0, tvg-id="1116" tvg-logo="/noicon.png" tvg-name="Kako trenirati zmaja 2 - Kako trenirati zmaja 2"  group-title="Videoteka",Kako trenirati zmaja 2 - Kako trenirati zmaja 2
+http://movie.bossna-caffe.com/movies/crtani/12.mkv
+
+#EXTINF:0, tvg-id="1117" tvg-logo="/noicon.png" tvg-name="Knjiga o dzungli 2 - Knjiga o dzungli 2"  group-title="Videoteka",Knjiga o dzungli 2 - Knjiga o dzungli 2
+http://movie.bossna-caffe.com/movies/crtani/13.avi
+
+#EXTINF:0, tvg-id="1118" tvg-logo="/noicon.png" tvg-name="Kralj lavova - Kralj lavova"  group-title="Videoteka",Kralj lavova - Kralj lavova
+http://movie.bossna-caffe.com/movies/crtani/14.avi
+
+#EXTINF:0, tvg-id="1119" tvg-logo="/noicon.png" tvg-name="Potraga za Nemom - Potraga za Nemom"  group-title="Videoteka",Potraga za Nemom - Potraga za Nemom
+http://movie.bossna-caffe.com/movies/crtani/15.avi
+
+#EXTINF:0, tvg-id="1120" tvg-logo="/noicon.png" tvg-name="Ruzno pace - Ruzno pace"  group-title="Videoteka",Ruzno pace - Ruzno pace
+http://movie.bossna-caffe.com/movies/crtani/16.mp4
+
+#EXTINF:0, tvg-id="1121" tvg-logo="/noicon.png" tvg-name="Setnja sa Dinosaurima - Setnja sa Dinosaurima"  group-title="Videoteka",Setnja sa Dinosaurima - Setnja sa Dinosaurima
+http://movie.bossna-caffe.com/movies/crtani/17.mp4
+
+#EXTINF:0, tvg-id="1122" tvg-logo="/noicon.png" tvg-name="Shrek - Shrek"  group-title="Videoteka",Shrek - Shrek
+http://movie.bossna-caffe.com/movies/crtani/18.avi
+
+#EXTINF:0, tvg-id="1123" tvg-logo="/noicon.png" tvg-name="Snjezno Kraljevstvo - Snjezno Kraljevstvo"  group-title="Videoteka",Snjezno Kraljevstvo - Snjezno Kraljevstvo
+http://movie.bossna-caffe.com/movies/crtani/20.avi
+
+#EXTINF:0, tvg-id="1124" tvg-logo="/noicon.png" tvg-name="Tarzan - Tarzan"  group-title="Videoteka",Tarzan - Tarzan
+http://movie.bossna-caffe.com/movies/crtani/19.avi
